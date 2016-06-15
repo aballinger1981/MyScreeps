@@ -1,0 +1,24 @@
+{
+  "name": "myscreeps",
+  "version": "1.0.0",
+  "description": "my screeps code",
+  "main": "main.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-screeps": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aballinger1981/MyScreeps.git"
+  },
+  "author": "Redbeard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aballinger1981/MyScreeps/issues"
+  },
+  "homepage": "https://github.com/aballinger1981/MyScreeps#readme"
+}
